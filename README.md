@@ -1,4 +1,4 @@
-## **Project 1 — Image Compression & PCA Analysis**
+## **Image Compression & PCA on NBA Player Statistics**
 This project explores two applications of linear algebra:
 
 ### **1. Image Compression using SVD**
